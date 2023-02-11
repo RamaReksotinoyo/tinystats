@@ -1,0 +1,17 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Project-local glide cache, *.local instead of .cache to not ignore .cache files elsewhere
+_vendor/ glide.*.local
+
+# End of https://www.gitignore.io/api/go
