@@ -27,7 +27,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/yourusername/tinystatistics"
+	"github.com/RamaReksotibnoyo/tinystatistics"
 )
 
 func main() {
